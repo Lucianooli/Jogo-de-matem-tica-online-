@@ -1,0 +1,161 @@
+body {
+    background-image: url('../images/pngtree-cute-hand-drawn-style-math-education-stripes-background-picture-image_1176962.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulo1 {
+    position: relative;
+    color: rgba(0, 0, 0, 0.714);
+    left: 36rem;
+}
+
+.iniciar {
+    background-color: #ff0000;
+    color: #ffffff;
+    position: relative;
+    left: 44rem;
+    top: 10rem;
+    font-size: x-large;
+    border-radius: 15%;
+    cursor: url('../images/icons8-mira-48.png'), auto;
+}
+
+.iniciar:hover {
+    color: rgb(0, 0, 0);
+}
+
+.classificação {
+    background-color: #ff0000;
+    color: #ffffff;
+    position: relative;
+    left: 34.5rem;
+    top: 20rem;
+    font-size: x-large;
+    text-transform: uppercase;
+    border-radius: 8%;
+    cursor: url('../images/icons8-mira-48.png'), auto;
+}
+
+.classificação:hover {
+    color: rgb(0, 0, 0);
+}
+
+.login {
+    background-color: #ff0000;
+    color: #ffffff;
+    position: relative;
+    left: 24.5rem;
+    top: 15rem;
+    font-size: x-large;
+    border-radius: 15%;
+    cursor: url('../images/icons8-mira-48.png'), auto;
+}
+
+.login:hover {
+    color: black;
+}
+
+.facil, .medio, .dificil {
+    background-color: #ff0000;
+    color: #ffffff;
+    font-size: x-large;
+    border-radius: 8%;
+    cursor: url('../images/icons8-mira-48.png'), auto;
+    position: relative;
+}
+
+.facil:hover, .medio:hover, .dificil:hover {
+    color: rgb(0, 0, 0);
+}
+
+.facil {
+    font-size: xx-large;
+    left: 45.5rem; 
+    top: 10rem;
+}
+
+.medio {
+    font-size: xx-large;
+    left: 40rem; 
+    top: 14rem;
+}
+
+.dificil {
+    font-size: xx-large;
+    left: 33.8rem; 
+    top: 18rem;
+}
+
+.escolha{
+    position: relative;
+    color: rgba(255, 8, 8, 0.714);
+    left: 35rem;
+    top: -2rem;
+}
+
+.fase_inicial{
+    position: relative;
+}
+
+.titulo_facil{
+    position: relative;
+    color: rgba(0, 0, 0, 0.714);
+    left: 43rem;
+}
+
+
+.pergunta_1{
+    position: relative;
+    left: 43.5rem;
+    top: 11rem;
+    color: #ff0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+
+
+.pergunta_2{
+    position: relative;
+    left: 39rem;
+    top: 11rem;
+    color: #ff0000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.enviar_resposta{
+    position: relative;
+    border-radius: 0%;
+    top: 14rem;
+    left: 43rem;
+}
+
+.enviar_button{
+    position: relative;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border-radius: 15%;
+    cursor: url('../images/icons8-mira-48.png'), auto;
+    top: 14.2rem;
+    left: 44rem;
+
+}
+.vida{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+    font-size: xx-large;
+    position: relative;
+    top: -11rem;
+    left: 18rem;
+}
+
+.pontos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+    font-size: xx-large;
+    position: relative;
+    top: -15rem;
+    left: 70rem;
+}
